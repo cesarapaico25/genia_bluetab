@@ -8,10 +8,10 @@ from langchain_google_vertexai import VertexAI
 
 
 # Configuración de los parámetros
-PROJECT_ID = "flawless-point-443223-k4"
+PROJECT_ID = "bcp-sofia-78147"
 LOCATION = "global"
 MODEL = "gemini-1.5-pro"  # Modelo generativo
-DATA_STORE_ID = "alicorp-pdf-layout_1734450499031"
+DATA_STORE_ID = "docs-alicorp_1735247946024"
 DATA_STORE_LOCATION = "global"
 
 # Set Up Application Default Credentials (ADC)
